@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on @Flywaydb
+🔭 I’m currently working on [Flywaydb](https://twitter.com/flywaydb)
 
 Check out some of my best projects:
 
