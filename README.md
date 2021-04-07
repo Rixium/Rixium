@@ -20,8 +20,3 @@ https://github.com/Rixium/ProjectSanctuary
 
 <img src="https://user-images.githubusercontent.com/3577800/110497052-05094f00-80ee-11eb-8a92-a9139f28edfe.png" width="360">
 <img src="https://user-images.githubusercontent.com/3577800/110497110-12263e00-80ee-11eb-9dc5-1cc36871e4b6.png" width="360">
-
-### Iso
-Online virtual chat world, running with SignalR and MonoGame.
-All work was done on server-side, so no pretty visuals here. :)
-https://github.com/Rixium/Iso
