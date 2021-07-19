@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on [Flywaydb](https://twitter.com/flywaydb)
+🔭 I’m currently working on Star Citizen, at Cloud Imperium Games.
 
 Check out some of my best projects:
 
