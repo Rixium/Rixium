@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Star Citizen, at Cloud Imperium Games.
+🔭 I’m currently a UI Engineer at Sledgehammer Games!
 
 Check out some of my best projects:
 
