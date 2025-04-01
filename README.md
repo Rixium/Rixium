@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently a UI Engineer at Sledgehammer Games!
-
-Check out some of my best projects:
+Check out some of my projects:
 
 ### Mayday 
 Mayday is a 2D platforming exploration game, running on MonoGame.
